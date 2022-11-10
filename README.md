@@ -1,1 +1,1 @@
-# neon-consul-training
+#consul-training
